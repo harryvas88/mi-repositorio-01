@@ -4,8 +4,9 @@
 
 ### soy lima, hincha de universitario, me gusta mucho los deportes sobretodo el futbol y viajar
 
+![IMG_0712](https://github.com/user-attachments/assets/ce80eaf4-fae8-4d28-96fe-8e5cdef18f25)
 
-![531225BD-8199-4053-A6B5-A9E0BF9EBF90](https://github.com/user-attachments/assets/856a25a7-a375-4b17-8e47-c46443eeb6dc)
+
 
 
 - Aprendi acerca de Markdown
